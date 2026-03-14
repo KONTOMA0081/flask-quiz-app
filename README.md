@@ -32,3 +32,4 @@ update: improving project documentation
 update: added Flask application structure
 update: created Question class
 update: implemented queue data structure
+update: created index.html page
