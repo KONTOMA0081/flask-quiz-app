@@ -38,3 +38,4 @@ update, created result page
 update, added timestamp for quiz result
 update, improved HTML layout
 update, added comments to Python code
+update, created README documentation
