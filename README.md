@@ -40,3 +40,4 @@ update, improved HTML layout
 update, added comments to Python code
 update, created README documentation
 update, updated README explanation
+update, refactored Flask routes
